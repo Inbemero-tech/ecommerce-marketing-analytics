@@ -16,14 +16,14 @@ Este análisis proporciona la evidencia cuantitativa para tomar decisiones de re
 ## 📁 Estructura del proyecto
 
 ```
-showz-marketing-analysis/
+ecommerce-marketing-analysis/
 │
 ├── data/                        # Datasets (descarga automática al ejecutar)
 │   ├── visits_log_us.csv        # Registro de sesiones de usuarios
 │   ├── orders_log_us.csv        # Registro de compras
 │   └── costs_us.csv             # Gasto en marketing por fuente y fecha
 │
-├── project_analysis_4_enhanced.ipynb   # Notebook principal con análisis completo
+├── revenue_optimization_analysis.ipynb   # Notebook principal con análisis completo
 └── README.md
 ```
 
