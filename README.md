@@ -67,6 +67,7 @@ El análisis sigue cuatro bloques secuenciales, cada uno construyendo sobre el a
 - **CAC (Customer Acquisition Cost):** gasto / usuarios adquiridos por fuente
 - **ROMI (Return on Marketing Investment):** (ingresos − gasto) / gasto × 100
 - Cruce de ambas métricas con LTV para determinar la sostenibilidad de cada canal
+![ROMI POR FUENTE](images/14_romi_por_fuente.png)
 
 ## 🔍 Principales hallazgos
 
